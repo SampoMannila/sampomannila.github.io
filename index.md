@@ -1,10 +1,15 @@
 # Sampo Mannila
 
-Online casino analyst and writer.
+Rahapelialan analyytikko ja päätoimittaja (Voitto.net). Jyväskylä, Suomi.
 
-I write about casino bonuses, online casinos, player behavior and the gambling industry.
+Kirjoitan suomalaisen rahapelijärjestelmän uudistuksesta (toimilupamalli 1.7.2027), kanavointiasteesta, vastuullisesta pelaamisesta ja markkinan kehityksestä.
 
-## Projects
+## Projektit
 
 ### Voitto.net
-News and analysis related to the gambling industry.
+Suomalainen rahapelimedia – uutiset, analyysit ja toimitukselliset periaatteet.
+
+## Linkit
+- Profiili ja repot: https://github.com/SampoMannila
+- Voitto.net toimitukselliset käytännöt: https://github.com/SampoMannila/voitto-net-editorial
+- Suomen rahapelilaki 2027 — faktat & lähteet: https://github.com/SampoMannila/suomi-rahapelilaki-2027
